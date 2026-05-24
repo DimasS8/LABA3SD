@@ -3,6 +3,15 @@
 **Задание:**
 
 
+
+
+<img width="654" height="224" alt="image" src="https://github.com/user-attachments/assets/82cbd468-6b21-41f5-8b55-03d8eee7f5cc" />
+
+
+
+
+
+
 <img width="1204" height="66" alt="image" src="https://github.com/user-attachments/assets/8fb84af6-ae80-46e7-8105-6648659a4e58" />
 
 
@@ -273,7 +282,6 @@ print('Манжин Дмитрий Евгеньевич, группа 090301-П�
 ````
 # Результат выполнения программы:
 
-![Uploading image.png…]()
+<img width="556" height="594" alt="image" src="https://github.com/user-attachments/assets/6c4500eb-0dac-47ab-b9bd-6b896197cc02" />
 
-![Uploading image.png…]()
 
